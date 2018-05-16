@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.1.27)  16 MAY 2018 21:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.1.27)  16 MAY 2018 22:28
 entering extended mode
-**"./Q1 1. Übung.tex"
-("Q1 1. Übung.tex"
+**"./Übung 1.tex"
+("Übung 1.tex"
 LaTeX2e <2016/03/31> patch level 3
 Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
 (layout.tex ("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrartcl.cls"
@@ -1145,8 +1145,8 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 LaTeX Warning: Unused global option(s):
     [a4paper0].
 
-("Q1 1. Übung.aux")
-\openout1 = `"Q1 1. Übung.aux"'.
+("Übung 1.aux")
+\openout1 = `"Übung 1.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
@@ -1290,101 +1290,51 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--4
 
  []
 
-LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 5.
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 6.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ztmcm.fd"
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 5.
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 6.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omlztmcm.fd"
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 5.
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 6.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsztmcm.fd"
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 5.
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 6.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omxztmcm.fd"
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 5.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 6.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 5.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 6.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 5.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 6.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 5.
-
-(1_1_gleichfoermige_Bewegung.pdf_tex
-<1_1_gleichfoermige_Bewegung.pdf, id=4, page=1, 341.43306pt x 256.0748pt>
-File: 1_1_gleichfoermige_Bewegung.pdf Graphic file (type pdf)
-
-<use 1_1_gleichfoermige_Bewegung.pdf, page 1>
-Package pdftex.def Info: 1_1_gleichfoermige_Bewegung.pdf, page1 used on input l
-ine 52.
-(pdftex.def)             Requested size: 149.37851pt x 112.03635pt.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 6.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 53.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 43.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 53.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 43.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 53.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 43.
 
-<1_1_gleichfoermige_Bewegung.pdf, id=5, page=2, 341.43306pt x 256.0748pt>
-File: 1_1_gleichfoermige_Bewegung.pdf Graphic file (type pdf)
-
-<use 1_1_gleichfoermige_Bewegung.pdf, page 2>
-Package pdftex.def Info: 1_1_gleichfoermige_Bewegung.pdf, page2 used on input l
-ine 55.
-(pdftex.def)             Requested size: 149.37851pt x 112.03635pt.
-
-<1_1_gleichfoermige_Bewegung.pdf, id=6, page=3, 341.43306pt x 256.0748pt>
-File: 1_1_gleichfoermige_Bewegung.pdf Graphic file (type pdf)
-
-<use 1_1_gleichfoermige_Bewegung.pdf, page 3>
-Package pdftex.def Info: 1_1_gleichfoermige_Bewegung.pdf, page3 used on input l
-ine 57.
-(pdftex.def)             Requested size: 149.37851pt x 112.03635pt.
-
-<1_1_gleichfoermige_Bewegung.pdf, id=7, page=4, 341.43306pt x 256.0748pt>
-File: 1_1_gleichfoermige_Bewegung.pdf Graphic file (type pdf)
-
-<use 1_1_gleichfoermige_Bewegung.pdf, page 4>
-Package pdftex.def Info: 1_1_gleichfoermige_Bewegung.pdf, page4 used on input l
-ine 59.
-(pdftex.def)             Requested size: 149.37851pt x 112.03635pt.
-)
-(1_2_gleichmaessig_beschleunigte_Bewegung.pdf_tex
-<1_2_gleichmaessig_beschleunigte_Bewegung.pdf, id=8, page=1, 341.43306pt x 256.
-0748pt>
-File: 1_2_gleichmaessig_beschleunigte_Bewegung.pdf Graphic file (type pdf)
- <use 1_2_gleichmaessig_beschleunigte_Bewegung.pdf, page 1>
-Package pdftex.def Info: 1_2_gleichmaessig_beschleunigte_Bewegung.pdf, page1 us
-ed on input line 52.
-(pdftex.def)             Requested size: 149.37851pt x 112.03635pt.
-
-<1_2_gleichmaessig_beschleunigte_Bewegung.pdf, id=9, page=2, 341.43306pt x 256.
-0748pt>
-File: 1_2_gleichmaessig_beschleunigte_Bewegung.pdf Graphic file (type pdf)
- <use 1_2_gleichmaessig_beschleunigte_Bewegung.pdf, page 2>
-Package pdftex.def Info: 1_2_gleichmaessig_beschleunigte_Bewegung.pdf, page2 us
-ed on input line 56.
-(pdftex.def)             Requested size: 149.37851pt x 112.03635pt.
-)
-<header.png, id=10, 71.26625pt x 13.04875pt>
+<header.png, id=4, 71.26625pt x 13.04875pt>
 File: header.png Graphic file (type png)
  <use header.png>
-Package pdftex.def Info: header.png used on input line 49.
+Package pdftex.def Info: header.png used on input line 43.
 (pdftex.def)             Requested size: 99.58313pt x 18.23346pt.
 
 
@@ -1396,7 +1346,7 @@ Package scrlayer-scrpage Warning: \headheight to low.
 (scrlayer-scrpage)                e.g., setting geometry's option
 (scrlayer-scrpage)                `head=22.08003pt'.
 (scrlayer-scrpage)                I'll also decrease \topmargin on input line 4
-9.
+3.
 
 
 Overfull \vbox (5.08003pt too high) has occurred while \output is active []
@@ -1404,59 +1354,47 @@ Overfull \vbox (5.08003pt too high) has occurred while \output is active []
 
 [1{C:/Users/stein/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
- <./header.png (PNG copy)> <./1_1_gleichfoermige_Bewegung.pdf> <./1_1_gleichfoe
-rmige_Bewegung.pdf
-
-pdfTeX warning: pdflatex.exe (file ./1_1_gleichfoermige_Bewegung.pdf): PDF incl
-usion: multiple pdfs with page group included in a single page
-> <./1_1_gleichfoermige_Bewegung.pdf
-
-pdfTeX warning: pdflatex.exe (file ./1_1_gleichfoermige_Bewegung.pdf): PDF incl
-usion: multiple pdfs with page group included in a single page
-> <./1_1_gleichfoermige_Bewegung.pdf
-
-pdfTeX warning: pdflatex.exe (file ./1_1_gleichfoermige_Bewegung.pdf): PDF incl
-usion: multiple pdfs with page group included in a single page
-> <./1_2_gleichmaessig_beschleunigte_Bewegung.pdf
-
-pdfTeX warning: pdflatex.exe (file ./1_2_gleichmaessig_beschleunigte_Bewegung.p
-df): PDF inclusion: multiple pdfs with page group included in a single page
-> <./1_2_gleichmaessig_beschleunigte_Bewegung.pdf
-
-pdfTeX warning: pdflatex.exe (file ./1_2_gleichmaessig_beschleunigte_Bewegung.p
-df): PDF inclusion: multiple pdfs with page group included in a single page
->]
+ <./header.png (PNG copy)>]
 File: header.png Graphic file (type png)
  <use header.png>
-Package pdftex.def Info: header.png used on input line 76.
+Package pdftex.def Info: header.png used on input line 85.
 (pdftex.def)             Requested size: 99.58313pt x 18.23346pt.
  [2]
+Overfull \hbox (3.08167pt too wide) in paragraph at lines 112--112
+[]$[]$ 
+ []
+
+File: header.png Graphic file (type png)
+<use header.png>
+Package pdftex.def Info: header.png used on input line 129.
+(pdftex.def)             Requested size: 99.58313pt x 18.23346pt.
+ [3]
 File: header.png Graphic file (type png)
  <use header.png>
-Package pdftex.def Info: header.png used on input line 127.
+Package pdftex.def Info: header.png used on input line 149.
 (pdftex.def)             Requested size: 99.58313pt x 18.23346pt.
- [3] ("Q1 1. Übung.aux") ) 
+ [4] ("Übung 1.aux") ) 
 Here is how much of TeX's memory you used:
- 29318 strings out of 493333
- 721687 string characters out of 3139194
- 990622 words of memory out of 3000000
- 32293 multiletter control sequences out of 15000+200000
- 56780 words of font info for 103 fonts, out of 3000000 for 9000
+ 29217 strings out of 493333
+ 718602 string characters out of 3139194
+ 986622 words of memory out of 3000000
+ 32202 multiletter control sequences out of 15000+200000
+ 54916 words of font info for 100 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,25n,100p,8873b,689s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r
-.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:
-/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program
- Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9
-/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/Program Files/MiKTeX 2.9/fo
-nts/type1/urw/symbol/usyr.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/symb
-ol/usyr.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/P
-rogram Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKT
-eX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "Q1 1. Übung.pdf" (3 pages, 99902 bytes).
+ 66i,25n,101p,8869b,678s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc
+}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Pro
+gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/symbols/msam10.pfb><C:/Program Files/MiKTeX 2.9/fonts/
+type1/public/amsfonts/symbols/msbm10.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/urw/symbol/usyr.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8
+a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program
+ Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on "Übung 1.pdf" (4 pages, 105296 bytes).
 PDF statistics:
- 66 PDF objects out of 1000 (max. 8388607)
+ 60 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 48 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 18 words of extra memory for PDF output out of 10000 (max. 10000000)
 
